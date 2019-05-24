@@ -1,0 +1,2 @@
+C:\Users\dvans\Downloads\PROJECT-PICHANGEA\App.Pichangea\obj\Debug\App.Pichangea.csprojAssemblyReference.cache
+C:\Users\dvans\Downloads\PROJECT-PICHANGEA\App.Pichangea\obj\Debug\App.Pichangea.csproj.CoreCompileInputs.cache
