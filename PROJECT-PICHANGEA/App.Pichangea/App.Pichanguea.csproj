@@ -129,6 +129,7 @@
     <Compile Include="Models\MetodoPago.cs" />
     <Compile Include="Models\NivelEquipo.cs" />
     <Compile Include="Models\Pago.cs" />
+    <Compile Include="Models\MiserranoFavorito.cs" />
     <Compile Include="Models\Partido.cs" />
     <Compile Include="Models\RealizacionPartido.cs" />
     <Compile Include="Models\RecomendacionCentroDeportivo.cs" />
