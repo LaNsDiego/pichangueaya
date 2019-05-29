@@ -127,6 +127,7 @@
     <Compile Include="Models\Horario.cs" />
     <Compile Include="Models\Jugador.cs" />
     <Compile Include="Models\MetodoPago.cs" />
+    <Compile Include="Models\webada.cs" />
     <Compile Include="Models\x2.cs" />
     <Compile Include="Models\NivelEquipo.cs" />
     <Compile Include="Models\Pago.cs" />
